@@ -1,1 +1,1 @@
-# toshyokanmap.github.io
+# tosyokanmap.github.io
